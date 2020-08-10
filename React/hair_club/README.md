@@ -1,3 +1,8 @@
+해당 프로그램의 소개, 설치방법, 레퍼런스 등이 올라가는 문서
+
+## Management System
+본 프로젝트는 React 강의 목적으로 만들어진 고객 관리 시스템이다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
