@@ -170,11 +170,11 @@ export default class EnrollReservation extends Component {
                         <input
                           type="checkbox"
                           class="custom-control-input"
-                          id="customCheck"
+                          id="customsCheck"
                         />
                         <label
                           class="custom-control-label text-lg"
-                          for="customCheck"
+                          for="customsCheck"
                         >
                           거부
                         </label>
