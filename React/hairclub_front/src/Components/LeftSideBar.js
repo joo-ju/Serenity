@@ -49,7 +49,8 @@ export default class LeftSideBar extends Component {
           <hr class="sidebar-divider" />
 
           <li class="nav-item active">
-            <a
+            <Link
+              to="../NewCustomer"
               class="nav-link"
               href="#"
               data-toggle="collapse"
@@ -58,7 +59,7 @@ export default class LeftSideBar extends Component {
               aria-controls="collapseTwo"
             >
               <span>고객 등록</span>
-            </a>
+            </Link>
           </li>
 
           {/* <!-- Divider --> */}

@@ -42,7 +42,7 @@ export default class CustomerSearch extends Component {
   render = () => (
     // <div className="  float-left">
     //   {/* <div class="row"> */}
-    <div class="col-lg-4 he-100">
+    <div class="col-lg-4 h-auto">
       <div class="card shadow mb-4">
         <div class="card-header py-3">
           <form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
